@@ -69,7 +69,7 @@ export const tokenomicsData = [
     },
     {
         title: "Total Supply",
-        value: "1, 000, 000, 000",
+        value: "463,975,731",
     },
 ];
 
